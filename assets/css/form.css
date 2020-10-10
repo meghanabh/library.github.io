@@ -1,0 +1,53 @@
+.myform{
+	background-image: url(assets/images/libbg1.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	height:auto;
+	padding-bottom:150px;
+}
+.back-btn{
+	background-color: #fbca03;
+    position: relative;
+    top: 50px;
+    padding: 8px 12px;
+    font-size: 18px;
+    font-weight: 600;
+    color: black;
+	border-radius: 5px;
+	margin-left:550px;
+}
+
+.form1{
+	height: auto;
+	width: 500px;
+	padding: 20px 30px;
+	background-color:#39B5E4;
+	border-radius: 5px;
+	margin-top: 80px;
+	margin-left: 250px;
+	
+}
+.form1 h2{
+	text-align:center;
+	font-size: 30px;
+}
+.form-group label{
+	font-size: 20px;
+	font-weight: 500;
+	background-color: #46ACEA;
+	padding: 6px 10px;
+	color: white;
+}
+.form1 button{
+	font-size: 18px;
+	margin-left: 200px;
+	margin-top: 30px;
+	padding: 15px;
+	background-color:#46ACEA;
+	color:white;
+	border-radius:5px;
+}
+.form1 button:hover{
+	color:#46ACEA;
+	background-color: white;
+}
